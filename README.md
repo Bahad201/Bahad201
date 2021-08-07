@@ -8,6 +8,8 @@
 - 🛠️ I’m currently working on **Computer Vision, Object Detection and Medical İmage Analysis**
 
 - 🌱 I’m currently learning **Machine Learning,Deep Learning, TensorFlow, Data Structures And Algorithms**
+- 
+- - 📫 How to reach me **bahadir.yazici5@gmail.com**
 
 <h3 align="left">Languages And Tools</h3>
 
@@ -25,10 +27,7 @@
 ---
 
 <p align="left">
-
 <a href = "https://www.linkedin.com/in/bahadir-yazici/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "bahadir.yazici5@gmail.com"><img src="https://img.icons8.com/plasticine/50/000000/gmail-new.png"/></a>
-
 </p>
 
 
