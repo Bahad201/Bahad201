@@ -27,7 +27,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/bahadir-yazici/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/plasticine/50/000000/gmail-new.png"/></a>
+<a href = "bahadir.yazici5@gmail.com"><img src="https://img.icons8.com/plasticine/50/000000/gmail-new.png"/></a>
 
 </p>
 
