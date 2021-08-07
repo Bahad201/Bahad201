@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Computer Vision, Obeject Detection and Medical İmage Analysis**
+- 🔭 I’m currently working on **Computer Vision, Object Detection and Medical İmage Analysis**
 
 - 🌱 I’m currently learning **TensorFlow, Deep Learning**
 
