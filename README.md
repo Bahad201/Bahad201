@@ -7,7 +7,7 @@
 ---
 - 🛠️ I’m currently working on **Computer Vision, Object Detection and Medical İmage Analysis**
 
-- 🌱 I’m currently learning **Machine Learning,Deep Learning, TensorFlow, Data Structures And Algorithms**
+- 🌱 I’m currently learning **Machine Learning,Deep Learning, TensorFlow and Data Structures And Algorithms**
 
 - 📫 How to reach me **bahadir.yazici5@gmail.com**
 
