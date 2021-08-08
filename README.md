@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bahadir.yazici5@gmail.com**
 
-<h3 align="left">Languages And Tools</h3>
+<h3 align="left">💻 Languages And Tools</h3>
 
 ---
 
