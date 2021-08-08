@@ -32,6 +32,7 @@
 <a href = "https://www.linkedin.com/in/bahadir-yazici/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bahad201)](https://github.com/anuraghazra/github-readme-stats)
 
