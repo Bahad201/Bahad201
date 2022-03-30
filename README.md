@@ -5,7 +5,7 @@
 <h3 align="left">🙋‍♂️ About Me</h3>
 
 ---
-- 🛠️ I’m currently working on **Computer Vision, Object Detection and Medical İmage Analysis**
+- 🛠️ I’m currently working on **Natural Language Processing**
 
 - 🌱 I’m currently learning **Machine Learning,Deep Learning, TensorFlow and Data Structures And Algorithms**
 
